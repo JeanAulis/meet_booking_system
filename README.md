@@ -4,6 +4,14 @@
 
 
 
+第一次使用难免会有不熟悉和不适应的操作，请多包涵。
+
+*First-time use may inevitably involve some unfamiliarity and discomfort in operations. Thank you for your understanding.*
+
+
+
+
+
 ## TODO:
 
 - [ ] 学习spring boot + vue.js
